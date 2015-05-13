@@ -1,0 +1,20 @@
+h1 {
+  margin-left: 100px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+
+
+div { 
+  border-width: 1px;
+  border-style: dashed;
+  border-color: black;
+}
